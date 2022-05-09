@@ -7,7 +7,7 @@ This one of my first colaborative projects
 - Html
 - Css
 
-##Author1
+## Author1
 
 @Camilevahivaraki
 
